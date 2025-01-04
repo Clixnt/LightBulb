@@ -143,10 +143,10 @@ body {
 }
 
 /* extra hover box */
-.container1, .name-title, .name-strand, .button-box {
+.container1, .name-title, .name-strand {
     transition: all 0.25s;
 }
-.container1:hover, .name-title:hover, .name-strand:hover, .button-box:hover {
+.container1:hover, .name-title:hover, .name-strand:hover{
     scale: 1.01;
     transition: all 0.25s;
 }
