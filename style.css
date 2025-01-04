@@ -127,7 +127,7 @@ body {
             background-color: var(--bg-red);
         
             &:hover {
-                scale: 1.1;
+                scale: 1.05;
                 transition: all 0.25s;
                 box-shadow: var(--bg-red) 0px 0px 10px, var(--bg-red) 0px 0px 20px;
             }
@@ -138,7 +138,7 @@ body {
             background-color: var(--bg-green);
         
             &:hover {
-                scale: 1.1;
+                scale: 1.05;
                 transition: all 0.25s;
                 box-shadow: var(--bg-green) 0px 0px 10px, var(--bg-green) 0px 0px 10px;
             }
